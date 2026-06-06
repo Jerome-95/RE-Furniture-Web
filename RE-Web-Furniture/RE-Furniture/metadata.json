@@ -1,8 +1,0 @@
-{
-  "name": "Atelier Oak",
-  "description": "A high-end editorial platform for curated artisanal furniture and home artifacts.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
